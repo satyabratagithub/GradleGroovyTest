@@ -29,5 +29,6 @@ class HelloWorld {
 	   
 		
 		//println {assert 'B'..'E' == ['B', 'C', 'D', 'E']}
+		println "new statement was added";
 	}
 }
